@@ -170,3 +170,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     document.body.appendChild(backgroundAudio);
 });
+
+let img = document.createElement("img");
+img.src = "IPUC_LA_FONDA-ACTU.png";
+document.body.appendChild(img);
+
