@@ -1,1 +1,0 @@
-!(IPUC_LA_FONDA-ACTU.png)
